@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.35.0](https://github.com/googleapis/google-api-java-client/compare/v1.34.0...v1.35.0) (2022-05-05)
+
+
+### Features
+
+* next release from main branch is 1.35.0 ([#2042](https://github.com/googleapis/google-api-java-client/issues/2042)) ([9005d5c](https://github.com/googleapis/google-api-java-client/commit/9005d5ca7df256342d0b6b94dfa92efc57ddeffa))
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.google.api-client:google-api-client to v1.34.0 ([#2038](https://github.com/googleapis/google-api-java-client/issues/2038)) ([afea56f](https://github.com/googleapis/google-api-java-client/commit/afea56f5891e0e6e90369c04f99d64d2648edde6))
+* **deps:** update dependency com.google.cloud:libraries-bom to v25.2.0 ([#2050](https://github.com/googleapis/google-api-java-client/issues/2050)) ([6c48f89](https://github.com/googleapis/google-api-java-client/commit/6c48f8954ed6ac161512e01defa358e7c7ea0627))
+* **deps:** update dependency com.google.oauth-client:google-oauth-client-bom to v1.33.3 ([#2041](https://github.com/googleapis/google-api-java-client/issues/2041)) ([be65181](https://github.com/googleapis/google-api-java-client/commit/be65181a67c87bdd1c7bcea3c99d25b4256fde4b))
+
 ## [1.34.0](https://github.com/googleapis/google-api-java-client/compare/v1.33.4...v1.34.0) (2022-04-12)
 
 
